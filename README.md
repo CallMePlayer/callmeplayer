@@ -24,6 +24,6 @@ Here are a few projects I am working on:
 
 - **[Menzo Collaborations](https://www.youtube.com/@MenzoCollabs)**: Music Videos
 - **[menzo.video](https://menzo.video)**: PeerTube Platform
-- **[The Game](https://player01ready.com)**: ARE YOU READY?
+- **[The Game](https://callmeplayer.com)**: ARE YOU READY?
 
 Feel free to check them out!
