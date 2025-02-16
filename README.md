@@ -6,8 +6,7 @@
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **[@Cursor](https://github.com/getcursor/cursor)**, **MotionCam Pro**, and **Copyright/Copyleft**
-- 💻 I’m proficient in **Python**, **Bash**, and **Powershell**
-- 🎮 I enjoy working on **CTF Games**, **[@PeerTube](https://github.com/Chocobozzz/PeerTube)**, and **Music Videos**
+- 💻 I’m proficient in **Python**, **Bash**, and **HTML**
 - 🌍 I’m based in **Sacramento, California**
 - 📫 You can reach me on **[LinkedIn](https://www.linkedin.com/in/ianmenz/)**
 
@@ -22,8 +21,8 @@ Here are some of the technologies and tools I work with:
 
 Here are a few projects I am working on:
 
-- **[Menzo Collaborations](https://www.youtube.com/@MenzoCollabs)**: Music Videos
-- **[menzo.video](https://menzo.video)**: PeerTube Platform
-- **[The Game](https://callmeplayer.com)**: ARE YOU READY?
+- **[Menzo Video](https://menzo.video)**
+- **[Menzo Music](https://music.menzo.video)**
+- **[The Game](https://callmeplayer.com)**
 
 Feel free to check them out!
