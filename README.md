@@ -22,7 +22,6 @@ Here are some of the technologies and tools I work with:
 Here are a few projects I am working on:
 
 - **[Menzo Video](https://menzo.video)**
-- **[Menzo Music](https://music.menzo.video)**
 - **[The Game](https://callmeplayer.com)**
 
 Feel free to check them out!
