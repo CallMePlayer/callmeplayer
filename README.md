@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **[@Cursor](https://github.com/getcursor/cursor)**, **MotionCam Pro**, and **Copyright/Copyleft**
 - 💻 I’m proficient in **Python**, **Bash**, and **HTML**
 - 🌍 I’m based in **Sacramento, California**
-- 📫 You can reach me on **[Mastodon](https://norcal.social/CallMePlayer)** and **[LinkedIn](https://www.linkedin.com/in/ianmenz/)**
+- 📫 You can reach me on **[Mastodon](https://norcal.social/@CallMePlayer)** and **[LinkedIn](https://www.linkedin.com/in/ianmenz/)**
 
 ## 🔧 Technologies & Tools
 
