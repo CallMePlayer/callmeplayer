@@ -21,7 +21,7 @@ Here are some of the technologies and tools I work with:
 
 Here are a few projects I am working on:
 
-- **[Menzo Video](https://menzo.video)**
-- **[The Game](https://player01ready.com)**
+- **[Click Here For a Free Car!](https://menzo.video)**
+- **[ARE YOU READY?](https://player01ready.com)**
 
 Feel free to check them out!
