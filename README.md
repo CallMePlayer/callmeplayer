@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **[@Cursor](https://github.com/getcursor/cursor)**, **MotionCam Pro**, and **Copyright/Copyleft**
 - 💻 I’m proficient in **Python**, **Bash**, and **HTML**
 - 🌍 I’m based in **Sacramento, California**
-- 📫 You can reach me on **[Mastodon](https://norcal.social/@CallMePlayer)** and **[LinkedIn](https://www.linkedin.com/in/ianmenz/)**
+- 📫 You can reach me on **[Mastodon](https://norcal.social/@CallMePlayer)**, and **[LinkedIn](https://www.linkedin.com/in/ianmenz/)**
 
 ## 🔧 Technologies & Tools
 
@@ -21,7 +21,7 @@ Here are some of the technologies and tools I work with:
 
 Here are a few projects I am working on:
 
-- **[Click Here For a Free Car!](https://menzo.video)**
-- **[ARE YOU READY?](https://player01ready.com)**
+- **[Menzo Video](https://menzo.video)**
+- **[Unlimited Games + No Games](https://player01ready.com)**
 
 Feel free to check them out!
