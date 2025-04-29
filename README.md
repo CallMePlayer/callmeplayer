@@ -1,7 +1,7 @@
 # 👋 print("Yo!") 
 
  Hi, I'm Ian! 
- - I'm exploring AI-assisted web development to fuel my passions for cybersecurity and filmmaking. 
+ - I'm exploring AI-assisted development to fuel my passions for cybersecurity and filmmaking. 
  - I thrive on learning and ready to level up my skills. 
 
 ## 🕺 About Me
@@ -15,7 +15,7 @@
 
 Here are some of the technologies and tools I work with:
 
-- **Dev:** [@cursor](https://github.com/getcursor/cursor), [@ublue-os](https://github.com/ublue-os/), Hyper 8 Video System
+- **Web Dev:** [@cursor](https://github.com/getcursor/cursor), [@ublue-os](https://github.com/ublue-os/), Hyper 8 Video System
 - **Video:** DaVinci Resolve, [@kdenlive](https://github.com/KDE/kdenlive), MotionCam Pro
 - **Music:** REAPER, Audacity, Suno
 
