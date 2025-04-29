@@ -9,7 +9,7 @@
 - 🌱 I’m interested in **Copyright** and **Copyleft**
 - 💻 I’m proficient in **Python**, **Bash**, and **HTML**
 - 🌍 I’m based in **Sacramento, California**
-- 📫 You can reach me on Mastodon **[@CallMePlayer@norcal.social](https://callmeplayer.com)** (most active) and **[LinkedIn](https://www.linkedin.com/in/ianmenz/)**
+- 📫 You can reach me on Mastodon **[@CallMePlayer@norcal.social](https://norcal.social/@CallMePlayer)** (most active) and LinkedIn **[/in/ianmenz](https://www.linkedin.com/in/ianmenz/)**
 
 ## 🔧 Technologies & Tools
 
