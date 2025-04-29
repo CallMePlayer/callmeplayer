@@ -1,8 +1,8 @@
 # 👋 print("Yo!") 
 
  Hi, I'm Ian! 
- I'm exploring AI-assisted development to fuel my passions for cybersecurity and filmmaking. 
- I thrive on learning and ready to level up my skills. 
+ - I'm exploring AI-assisted development to fuel my passions for cybersecurity and filmmaking. 
+ - I thrive on learning and ready to level up my skills. 
 
 ## 🚀 About Me
 
