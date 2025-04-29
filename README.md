@@ -1,21 +1,23 @@
-# 👋 print("Hello, World!") 
+# 👋 print("Yo!") 
 
  Hi, I'm Ian! 
- I'm currently exploring AI-assisted development to fuel my passions for cybersecurity and filmmaking. I thrive on learning and am always eager to level up my skills. 
+ I'm exploring AI-assisted development to fuel my passions for cybersecurity and filmmaking. 
+ I thrive on learning and ready to level up my skills. 
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **[@Cursor](https://github.com/getcursor/cursor)**, **MotionCam Pro**, and **Copyright/Copyleft**
+- 🌱 I’m interested in **Copyright** and **Copyleft**
 - 💻 I’m proficient in **Python**, **Bash**, and **HTML**
 - 🌍 I’m based in **Sacramento, California**
-- 📫 You can reach me on **[Mastodon](https://norcal.social/@CallMePlayer)** and **[LinkedIn](https://www.linkedin.com/in/ianmenz/)**
+- 📫 You can reach me on **[Mastodon](https://norcal.social/@CallMePlayer)**(Most active), **[Bluesky](https://bsky.app/profile/menzo.video)**(bridged from Mastodon), and **[LinkedIn](https://www.linkedin.com/in/ianmenz/)**
 
 ## 🔧 Technologies & Tools
 
 Here are some of the technologies and tools I work with:
 
-- **Languages:** HTML, Python, Java, C
-- **Tools:** DaVinci Resolve, Kali Linux, VS Code
+- **Dev:** [@Cursor](https://github.com/getcursor/cursor), [@ublue-os](https://github.com/ublue-os/), Hyper 8 Video System
+- **Video:** DaVinci Resolve, [@kdenlive](https://github.com/KDE/kdenlive), MotionCam Pro
+- **Music:** REAPER, Audacity, Suno
 
 ## 🌟 Projects
 
