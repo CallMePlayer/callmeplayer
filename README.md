@@ -15,7 +15,7 @@
 
 Here are some of the technologies and tools I work with:
 
-- **Dev:** [@Cursor](https://github.com/getcursor/cursor), [@ublue-os](https://github.com/ublue-os/), Hyper 8 Video System
+- **Dev:** [@cursor](https://github.com/getcursor/cursor), [@ublue-os](https://github.com/ublue-os/), Hyper 8 Video System
 - **Video:** DaVinci Resolve, [@kdenlive](https://github.com/KDE/kdenlive), MotionCam Pro
 - **Music:** REAPER, Audacity, Suno
 
