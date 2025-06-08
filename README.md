@@ -12,7 +12,7 @@ Here are a few projects I am working on:
 
 Feel free to check them out!
 
-## 📫 DM me for Signal/Email
+## 📫 Contact
 
--  Mastodon **[@CallMePlayer@norcal.social](https://norcal.social/@CallMePlayer)** (most active) 
--  LinkedIn **[in/ianmenz](https://www.linkedin.com/in/ianmenz/)**
+You can DM me on the fediverse 
+**[@CallMePlayer@norcal.social](https://norcal.social/@CallMePlayer)**
