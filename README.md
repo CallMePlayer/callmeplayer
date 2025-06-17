@@ -1,7 +1,8 @@
 # 👋 print("Yo!") 
 
 Hi, I'm Ian! 
-I'm interested in free and open source software
+I'm interested in free and open source software 
+You can also find me on **[Codeberg](https://codeberg.org/CallMePlayer)**
 
 ## 🌟 Projects
 
