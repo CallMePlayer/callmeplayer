@@ -9,7 +9,7 @@ I'm interested in free and open source software.
 Here are a few projects I am working on:
 
 - **[Menzo Video Player](https://menzo.video/player)**
-- **[The Game](https://player01ready.com)**
+- **[Unlimited Games + No Games](https://player01ready.com)**
 
 Feel free to check them out!
 
