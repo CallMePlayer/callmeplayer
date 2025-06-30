@@ -6,7 +6,7 @@ I'm interested in free and open source software.
 
 ## 🌟 Projects
 
-**[🎮 Unlimited Games + No Games 🥓](https://github.com/CallMePlayer/player01ready.com)**
+**[The Game but No Games](https://github.com/CallMePlayer/player01ready.com)**
 
 ## 📫 Contact
 
