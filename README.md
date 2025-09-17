@@ -6,7 +6,7 @@ I'm interested in free and open source software.
 
 ## 🌟 Projects
 
-**[player01ready.com](https://github.com/CallMePlayer/player01ready.com)**
+**[PLAYER 01 READY](https://codeberg.org/CallMePlayer/player01ready)**
 
 ## 📫 Contact
 
